@@ -72,6 +72,7 @@ class MapViewController: UIViewController {
             self.timeLabel.text = self.mapManager.infoText
                 }
         timeLabel.isHidden = false
+        
     }
     
     
